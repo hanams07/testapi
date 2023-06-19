@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>test_case_1</name>
+   <name>Put Update</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>bc2663e9-6930-48f4-9880-f582650c1bc3</testCaseGuid>
+   <testCaseGuid>49b10c2a-82cf-4925-aa94-e9afbf7886db</testCaseGuid>
 </TestCaseEntity>
